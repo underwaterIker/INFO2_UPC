@@ -1,0 +1,116 @@
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Integration Exercise\Integration Exercise\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Universidad\Info2\Ejercicios\Integration Exercise\Integration Exercise\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Integration Exercise\Integration Exercise\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Integration Exercise\Integration Exercise\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Universidad\Info2\Ejercicios\Integration Exercise\Integration Exercise\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Universidad\Info2\Ejercicios\Integration Exercise\Integration Exercise\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Universidad\Info2\Ejercicios\Integration Exercise\Integration Exercise\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Universidad\Info2\Ejercicios\Integration Exercise\Integration Exercise\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Integration Exercise\Integration Exercise\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Version 1\Integration Exercise\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Universidad\Info2\Ejercicios\Version 1\Integration Exercise\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Version 1\Integration Exercise\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Version 1\Integration Exercise\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Universidad\Info2\Ejercicios\Version 1\Integration Exercise\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Universidad\Info2\Ejercicios\Version 1\Integration Exercise\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Universidad\Info2\Ejercicios\Version 1\Integration Exercise\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Universidad\Info2\Ejercicios\Version 1\Integration Exercise\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Version 1\Integration Exercise\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Universidad\Info2\Ejercicios\Version 3\Integration Exercise (Version2)\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Universidad\Info2\Ejercicios\Version 3\Integration Exercise (Version2)\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Version 3\Integration Exercise (Version2)\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Version 3\Integration Exercise (Version2)\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Universidad\Info2\Ejercicios\Version 3\Integration Exercise (Version2)\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Universidad\Info2\Ejercicios\Version 3\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Universidad\Info2\Ejercicios\Version 3\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Universidad\Info2\Ejercicios\Version 3\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Universidad\Info2\Ejercicios\Version 3\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Universidad\Info2\Ejercicios\Version 3\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Universidad\Info2\Ejercicios\Version 3\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Version 3\Integration Exercise (Version2)\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Version 3\Version3\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Universidad\Info2\Ejercicios\Version 3\Version3\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Version 3\Version3\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Version 3\Version3\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Universidad\Info2\Ejercicios\Version 3\Version3\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Universidad\Info2\Ejercicios\Version 3\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Universidad\Info2\Ejercicios\Version 3\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Universidad\Info2\Ejercicios\Version 3\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Universidad\Info2\Ejercicios\Version 3\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Universidad\Info2\Ejercicios\Version 3\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Universidad\Info2\Ejercicios\Version 3\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Version 3\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+D:\Proyectos\C#\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+D:\Proyectos\Info2 (UPC)\Version3\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb

@@ -1,0 +1,52 @@
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.csprojAssemblyReference.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\SimulatorConsole\obj\Debug\SimulatorConsole.csprojAssemblyReference.cache
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Users\roc\Desktop\INFII\PrimerProyectoAfter\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\SimulatorConsole\obj\Debug\SimulatorConsole.csprojAssemblyReference.cache
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Universidad\Info2\Ejercicios\Mi Primer Proyecto\2.- PrimerProyectoAfterSession1\PrimerProyectoAfterSession1\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\SimulatorConsole\obj\Debug\SimulatorConsole.csprojAssemblyReference.cache
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Universidad\Info2\Ejercicios\Deliverables\Deliverable 3.2\Parte 2\Deliv 3.2 - Parte 2\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\SimulatorConsole\bin\Debug\System.Data.SQLite.dll
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\SimulatorConsole\bin\Debug\System.Data.SQLite.xml
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\SimulatorConsole\obj\Debug\SimulatorConsole.csprojAssemblyReference.cache
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Universidad\Info2\Ejercicios\Version 2\Integration Exercise (Version2)\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
